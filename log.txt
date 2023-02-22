@@ -1,1 +1,25 @@
 
+21/02/2023 23:53:28 - https://www.netflix.com- online: true
+21/02/2023 23:53:29 - https://www.udemy.com- online: true
+21/02/2023 23:53:30 - https://www.youtube.com.br- online: true
+21/02/2023 23:53:30 - https://www.google.com- online: true
+21/02/2023 23:54:04 - https://www.netflix.com- online: true
+21/02/2023 23:54:05 - https://www.udemy.com- online: true
+21/02/2023 23:54:06 - https://www.youtube.com.br- online: true
+21/02/2023 23:54:06 - https://www.google.com- online: true
+21/02/2023 23:55:42 - https://www.netflix.com- online: true
+21/02/2023 23:55:43 - https://www.udemy.com- online: true
+21/02/2023 23:55:44 - https://www.youtube.com.br- online: true
+21/02/2023 23:55:44 - https://www.google.com- online: true
+21/02/2023 23:57:19 - https://www.netflix.com- online: true
+21/02/2023 23:57:20 - https://www.udemy.com- online: true
+21/02/2023 23:57:21 - https://www.youtube.com.br- online: true
+21/02/2023 23:57:21 - https://www.google.com- online: true
+21/02/2023 23:58:07 - https://www.netflix.com- online: true
+21/02/2023 23:58:15 - https://www.udemy.com- online: true
+21/02/2023 23:58:16 - https://www.youtube.com.br- online: true
+21/02/2023 23:58:16 - https://www.google.com- online: true
+21/02/2023 23:58:51 - https://www.netflix.com- online: true
+21/02/2023 23:58:52 - https://www.udemy.com- online: true
+21/02/2023 23:58:53 - https://www.youtube.com.br- online: true
+21/02/2023 23:58:53 - https://www.google.com- online: true
