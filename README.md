@@ -1,0 +1,1 @@
+Here we have a simple application written in Golang. It serves to monitor some sites that I listed in the sites.txt document. Logs are stored in the log.txt document as the application runs and is asked to monitor.
